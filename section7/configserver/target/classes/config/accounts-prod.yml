@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Easy Bank in prod api"
+  contactDetails:
+    name: "raj jha"
+    email: "chand@esy.com"
+  onCallSupport:
+    -7676876876
+    -6786876879

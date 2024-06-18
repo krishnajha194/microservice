@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Easy Bank in qa api"
+  contactDetails:
+    name: "Chand jha"
+    email: "chand@esy.com"
+  onCallSupport:
+    -7676876876
+    -6786876879s

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Easy Bank in details cards api "
+  contactDetails:
+    name: "Krishna jha"
+    email: "john@esy.com"
+  onCallSupport:
+    -7676876876
+    -6786876879s
